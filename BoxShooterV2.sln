@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxShooterV2.CSharp", "BoxShooterV2.CSharp.csproj", "{6D03AB98-1713-CE0A-FC39-C14B099E4009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxShooterV2.CSharp.Editor", "BoxShooterV2.CSharp.Editor.csproj", "{7F88F7F6-F015-871D-C4C4-96AA06628A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D03AB98-1713-CE0A-FC39-C14B099E4009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D03AB98-1713-CE0A-FC39-C14B099E4009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D03AB98-1713-CE0A-FC39-C14B099E4009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D03AB98-1713-CE0A-FC39-C14B099E4009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F88F7F6-F015-871D-C4C4-96AA06628A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F88F7F6-F015-871D-C4C4-96AA06628A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F88F7F6-F015-871D-C4C4-96AA06628A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F88F7F6-F015-871D-C4C4-96AA06628A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
